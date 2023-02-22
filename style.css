@@ -1,0 +1,30 @@
+h1 {
+    color: rgba(25, 12, 255, 0.8);
+    font-style: italic;
+}
+
+.beautifull {
+    background-color: lightgray;
+    border-top: 3px dashed orange;
+}
+
+
+#p1 {    
+    color: #569301;
+}
+
+.paki {
+    background-color: yellow;
+    border:3px solid red;
+    
+}
+img {
+    border: 3px ridge purple;
+    border-radius: 50%;
+    border-width: 100;
+    border-height: 100;
+}
+
+a{
+    background-color: orange;
+}
